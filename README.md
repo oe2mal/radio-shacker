@@ -1,6 +1,8 @@
 # radio-shacker
-A shack is a hams home...
+Here are some lines of code to be developed soon ...
 
-Just a few lines of code - not only for ham operators
+These should cover the following fields of
+- education and hobby
+- Occupation and practice
 
-
+The ask is to make life easier.
