@@ -6,4 +6,4 @@ These should cover the following fields of
 - profession and practice
 - private and home
 
-The ask is to make life easier.
+The task is to make life easier.
